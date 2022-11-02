@@ -20,10 +20,14 @@ ___
 
 ___
 
-### :computer: Some of my open source projects:
+### :computer: Some of my open source project
 
 | Project name | Platform | Description |  Technologies | Gaze |
 |:------------:|:--------:|-------------|---------------|------|
 | `What To Watch` | ![Desktop](https://img.shields.io/badge/Desktop-323630?style=for-the-badge) | The online cinema app with the ability<br/>to log in, add to favorites, sort in a convenient order,<br/>comment and watch movies of course! | **Next.Js / Redux<br/> TS / Jest(RTL)** | [Look](https://what-to-watch-delta-five.vercel.app/)<br/>[Code](https://github.com/Vadim-Matsul/what-to-watch) |
 | `Six Cities` | ![Desktop](https://img.shields.io/badge/Desktop-323630?style=for-the-badge) | The app for booking hotels in European cities,<br/>you can also see the location of the hotel on the map and nearby hotels | **React / Redux<br/> TS / Jest(RTL)** | [Look](https://six-cities-react-xi.vercel.app/)<br/>[Code](https://github.com/Vadim-Matsul/Six-Cities) |
-| `Courses` | ![Cross](https://img.shields.io/badge/Cross-323630?style=for-the-badge) | In the app you can evaluate:<br/>adaptive of the layout, accessibility of the site<br/>and interaction with the site from the keyboard | **Next.Js / TS / CSS** | [Look](https://first-steps-next-js.vercel.app/courses/financial-analytics)<br/>[Code](https://github.com/Vadim-Matsul/Meeting-with-Next.JS) |
+| `Courses` | ![Cross](https://img.shields.io/badge/Cross-323630?style=for-the-badge) | In the app you can evaluate:<br/>adaptive of the layout, accessibility of the site<br/>and interaction with the site from the keyboard | **Next.Js / TS<br/>CSS / Figma** | [Look](https://first-steps-next-js.vercel.app/courses/financial-analytics)<br/>[Code](https://github.com/Vadim-Matsul/Meeting-with-Next.JS) |
+
+<p align='center'>
+<a href="mailto:matsulmoscow@gmail.com"><img height="30" src="./public/email.png"></a> <a href="https://www.codewars.com/users/M_atsul_oscow/"><img height="30" src="https://www.codewars.com/users/M_atsul_oscow/badges/micro"></a>
+</p>
