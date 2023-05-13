@@ -9,8 +9,10 @@ ___
 ![NPM](https://img.shields.io/badge/NPM-323630?style=for-the-badge&logo=npm&logoColor=#CB3837)
 ![Git](https://img.shields.io/badge/Git-323630?style=for-the-badge&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-323630?style=for-the-badge&logo=GitHub&logoColor=black)
-![GitLab](https://img.shields.io/badge/GitLab-323630?style=for-the-badge&logo=GitLab&logoColor=#FC6D26)
+![GitLab](https://img.shields.io/badge/GitLab-323630?style=for-the-badge&logo=GitLab&logoColor=#FC6D26)<br/>
 ![Figma](https://img.shields.io/badge/Figma-323630?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+![Jira](https://img.shields.io/badge/Jira-323630?style=for-the-badge&logo=Jira&logoColor=0052CC)
+![Google Workspace](https://img.shields.io/badge/Google Worksapce-323630?style=for-the-badge&logo=Google&logoColor=4285F4)
 
 ##### ` Languages: `
 ![JavaScript](https://img.shields.io/badge/JavaScript-323630?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)<br/>
@@ -48,6 +50,7 @@ ___
 | `Six Cities` | ![Desktop](https://img.shields.io/badge/Desktop-323630?style=for-the-badge) | The app for booking hotels in European cities,<br/>you can also see the location of the hotel on the map and nearby hotels | **React / Redux<br/>TS / Jest(RTL)** | [Look](https://six-cities-react-xi.vercel.app/)<br/>[Code](https://github.com/Vadim-Matsul/Six-Cities) |
 | `Courses` | ![Cross](https://img.shields.io/badge/Cross-323630?style=for-the-badge) | In the app you can evaluate:<br/>adaptive of the layout, accessibility of the site<br/>and interaction with the site from the keyboard | **Next.Js / TS<br/>CSS / Figma** | [Look](https://courses-green-three.vercel.app/courses/financial-analytics)<br/>[Code](https://github.com/Vadim-Matsul/Courses) |
 | `Limitless Maps` | ![Desktop](https://img.shields.io/badge/Desktop-323630?style=for-the-badge) | You can attach your markers to the map<br/>and events related to this place to the markers.<br/>And all data will be saved after reload! | **React / Context API** | [Look](https://limitless-maps.vercel.app/)<br/>[Code](https://github.com/Vadim-Matsul/limitless-maps) |
+| `Medium Ng` | ![Desktop](https://img.shields.io/badge/Desktop-323630?style=for-the-badge) | See the posts of other participants. Subscribe to geniuses)<br/>And look for something new for yourself, but only after authorization =D | **Angular / RxJs / Ngrx** | [Look](https://medium-jittwuc4n-vadim-matsul.vercel.app/)<br/>[Code](https://github.com/Vadim-Matsul/medium-ng) |
 
 <p align='center'>
 <a href="mailto:matsulmoscow@gmail.com"><img height="30" src="./public/email.png"></a> <a href="https://www.codewars.com/users/M_atsul_oscow/"><img height="30" src="https://www.codewars.com/users/M_atsul_oscow/badges/micro"></a>
