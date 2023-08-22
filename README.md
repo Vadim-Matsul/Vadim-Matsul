@@ -53,5 +53,5 @@ ___
 | `Medium Ng` | ![Desktop](https://img.shields.io/badge/Desktop-323630?style=for-the-badge) | See the posts of other participants. Subscribe to geniuses)<br/>And look for something new for yourself, but only after authorization =D | **Angular / RxJs / Ngrx** | [Look](https://medium-jittwuc4n-vadim-matsul.vercel.app/)<br/>[Code](https://github.com/Vadim-Matsul/medium-ng) |
 
 <p align='center'>
-<a href="mailto:matsulmoscow@gmail.com"><img height="30" src="./public/email.png"></a> <a href="https://www.codewars.com/users/M_atsul_oscow/"><img height="30" src="https://www.codewars.com/users/M_atsul_oscow/badges/micro"></a>
+<a href="mailto:matsulmoscow@gmail.com"><img height="30" src="./public/email.png"></a> 
 </p>
